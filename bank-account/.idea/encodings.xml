@@ -3,6 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/bank-account/account.cmd/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bank-account/account.common/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cqrs-es/cqrs.core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cqrs/cqrs.core/src/main/java" charset="UTF-8" />
   </component>
 </project>
